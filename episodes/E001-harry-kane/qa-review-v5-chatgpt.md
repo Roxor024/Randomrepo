@@ -22,3 +22,21 @@ Owner uploaded `BEHIND_IT_ALL_E001_v5.mp4`; it was checked directly, NOT inferre
 - Owner: view and listen to v5 and respond whether the new ending feels right; note specific pronunciation errors.
 - Claude: use zero-cost tools only if adjusting anything. No paid credits, licensed images, trials with bills, or uploads to public Git history.
 - ChatGPT: can assess revised cuts when actual MP4 is accessible.
+
+
+## Owner decision and engagement direction (29 Oct 2026)
+- **Owner accepts v5 ending as acceptable.** The previous owner objection about the rushed ending is resolved sufficiently; preserve the v5 smooth Ballon d'Or bridge, childhood callback and mystery comment hook. Do not rewrite its ending without a concrete reason.
+- **New primary request:** the entire Reel should be **more engaging**. In particular, visual storytelling through the first 40–50s needs strengthening. This is a creative improvement request, not approval for any spending or for publishing.
+
+### Recommended zero-spend v6 creative pass
+1. Hook within the first 1–3 seconds with a powerful, visually distinct childhood/football rejection image, not a static opener or excessive title text. Keep the narrator's first-love line.
+2. Replace repetitive black silhouette tableaux with dynamic, football-specific close-ups: laces/boots, a gate closing, wet training field, footsteps, stadium tunnel, net shaking, tactical passes, stadium lights, hands on knees, captain/teammate moment, etc. Use only code-drawn/free original/licence-cleared assets.
+3. Contrast quiet setbacks and impact moments using intentional speed changes, depth/parallax/camera motion and original SFX. Arsenal rejection and the three goals should have notably different energy.
+4. Emphasize Tottenham evolution across three distinct visual beats: uncertainty → playmaking and scoring → trusted leader. Add Munich and performance montage variation without turning them into statistics or unverified claims.
+5. Preserve dark-backed legible captions, safe zones, accurate text and artistic recreation labels.
+6. Do not overcut or chase arbitrary shot counts; aim for meaningful visual change every few seconds in the middle while retaining emotional pauses.
+7. Keep v5 ending and its slower, smoother Ballon d'Or bridge, CTA and music tail substantially unchanged. No name reveal.
+8. **Strict zero spend:** no paid voice, credits, images, music, APIs or licences. QA requested on an actual accessible v6 MP4. Keep status READY_FOR_REVIEW until independent audiovisual QA and owner signoff.
+9. Audio voice naturalness and pronunciation have *not* yet been independently certified; treat that as a separate approval item.
+
+**Editorial assessment:** Story/ending are broadly acceptable, visual engagement is the principal remaining weakness. Ratings are subjective, not audience metrics.
