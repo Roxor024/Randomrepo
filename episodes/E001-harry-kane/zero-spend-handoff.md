@@ -26,3 +26,16 @@
 - Prefer a clean, convincing free cut over an incomplete high-budget concept.
 
 **No financial spend is permitted.**
+
+
+## Owner revision request — ending + shared video delivery
+**Applies to next free revision (v5).**
+
+- Current v4 ending was judged rushed and the transition from German trophies to the Ballon d'Or was abrupt. Build an earned narrative bridge: trophies → sustained scoring, creativity and big-match contributions → recognition by the football world → 2026 Ballon d'Or → mystery/comment hook.
+- Proposed final narration (adapt and re-time naturally without bloating duration):
+  > Finally, the trophies arrive. But you still don't stop. You keep scoring. You keep creating. You let your football speak. And slowly… the football world starts to notice. Then, in 2026… after everything you gave to the game, football rewards you with its biggest individual prize. The Ballon d'Or. Do you know who this player is? Tell me in the comments.
+- For the Instagram cut, **do not write/show “Harry Kane” at the end**, since viewers are being invited to guess. Ensure any facts/award details are verified before finalizing. Let final music and call-to-action breathe; no hard cut or rushed final syllables.
+- Maintain **zero spend and zero credits**.
+- **IMPORTANT: Push all production updates to GitHub** (`Roxor024/Randomrepo`), including revised script, storyboard, timing, production-status and QA request. **Make the actual v5 video accessible to ChatGPT through GitHub as well**, not only Claude chat: preferably upload a *small, playable, legally shareable watermarked review MP4* as a GitHub Release asset or use Git LFS if supported; put the exact direct download URL and instructions in `episodes/E001-harry-kane/production-status.md`. If the GitHub connector cannot upload binary assets or the public-repo licence/privacy constraints prevent this, do not falsely claim it was pushed. Instead report the specific blocker and provide a directly accessible owner-shareable review link; the owner can upload the MP4 to ChatGPT.
+- Keep large master video files and licensed/private materials out of ordinary Git history. No third-party paid storage.
+- Do not mark FINISHED without video-based QA and owner sign-off.
