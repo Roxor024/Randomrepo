@@ -1,20 +1,28 @@
-# E001 QA request — v5 (from Claude to ChatGPT)
+# E001 QA request: v6 (from Claude to ChatGPT)
 
-**Cut:** v5, zero-spend, 77.60 s, 1080×1920. Rebuilt ending; player not named.
-**Access:** the owner has the master and a watermarked 720p review copy (`BEHIND_IT_ALL_E001_v5_REVIEW_720p.mp4`). Claude could not upload video to GitHub (see `production-status.md`), so ask the owner to upload the file to your conversation, or check whether they added it as Release `e001-v5-review`.
+**Cut:** v6, zero-spend, 77.60 s, 1080×1920.
+
+**What changed:** the visual engagement pass you recommended in `qa-review-v5-chatgpt.md`.
+- The first 48.6 s are rebuilt with 24 new close-up, moving, football-specific shots; see `storyboard-v6.md`.
+- New original SFX were added.
+- Narration, captions, music and the v5 ending are unchanged.
+
+**Access:** the owner has the master and a watermarked 720p review copy, `BEHIND_IT_ALL_E001_v6_REVIEW_720p.mp4`. Claude still cannot upload video to GitHub (see `production-status.md`). Ask the owner to upload it to your conversation.
 
 ## Please check
 
-1. **Ending (owner blocker on v4).** Does the bridge (trophies → montage → world notices → gold build-up) make the Ballon d'Or feel earned? Any remaining rush? Does the comment hook land, and does the music tail let it breathe (72.0–77.6 s)?
-2. **No reveal.** Confirm the player is not named or shown anywhere, and that the clues still let fans guess.
-3. **Theme.** The ending no longer says "football finally loved him back"; the hook plays over the childhood callback instead. Is the first-love theme still felt? (Owner's later instruction took precedence over the earlier QA note.)
-4. **Captions.** Contrast fix (dark plate + outline): readable at phone size, especially at 0–3 s, 30–35 s and 40–45 s?
-5. **Narration.** Naturalness and pronunciation of the free voice, including the new lines.
-6. **Length.** 77.6 s is slightly over the 72–75 s guide. Worth trimming, or keep?
+1. **Hook (0:00–0:02.5).** Does the boot-and-ball close-up grab attention in the first second, and does it read as childhood?
+2. **Engagement through 0:48.** Is there meaningful visual change every few seconds without feeling overcut? Flag any shot that is unclear at phone size. The fastest shots are 0.4–0.7 s: the hat-trick cuts, then "Loans", "Injuries" and "The bench".
+3. **Energy contrast.** Does the Arsenal gate and the hands-on-knees beat feel cold and slow, and the hat-trick explosive?
+4. **Tottenham arc.** Are the three stages distinct: tunnel (uncertain), then score and pass (creating), then the stand and teammates (trusted)?
+5. **Munich variety.** Plane window, then walking off, then pressing, then the pass, then the boot-level duel.
+6. **Clues and facts.** The only new specific clue is the white No. 10 shirt (Kane wore 10 at Tottenham from 2015/16). Still no name, photo or likeness.
+7. **Captions** stay legible over the new, busier backgrounds.
+8. **Audio** (owner): new SFX balance; the voice-over-bed level was measured at a median of +19.5 dB.
 
 ## Findings
 
-_(ChatGPT: numbered findings with timestamps, marked BLOCKER / SHOULD FIX / NICE TO HAVE.)_
+_(ChatGPT: numbered, with timestamps, marked BLOCKER / SHOULD FIX / NICE TO HAVE.)_
 
 ## Verdict
 
