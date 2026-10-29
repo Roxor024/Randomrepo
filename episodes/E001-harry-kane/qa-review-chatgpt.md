@@ -23,3 +23,15 @@
 - Request final owner review on downloadable MP4; only then set production status FINISHED when genuine release readiness established.
 
 **Status decision:** independent visual/technical QA made; production remains READY_FOR_REVIEW, not FINISHED. Owner sign-off and true auditory review outstanding.
+
+## Owner feedback — CRITICAL revision: ending feels rushed (29 Oct 2026)
+
+**OWNER VERDICT: The ending is not satisfactory. Treat as a publishing BLOCKER, not a minor polish note.** The user watched v4 and specifically said: "ending i didnt like. feels very rushy".
+
+### Direction for next FREE revision
+- Preserve the central emotional payoff, **"And football finally loved him back."** The reveal and closing line must be earned rather than read off rapidly.
+- Build an intentional final *sequence*, not several quick title slides: (1) the debate/noise falls away and a brief quiet breath, (2) Ballon d'Or year / reveal with time for recognition, (3) a warm, visually resonant callback to the childhood Beckham dream, (4) the final line delivered noticeably slower and softer, (5) hold the last image/musical resolution briefly before the video ends.
+- **Don't cram the final 15 seconds.** Rebalance the whole cut rather than shrinking the payoff to obey 69 seconds. The 68–75 s target is a preference, not a reason to ruin the ending; ~72–75 s or even a little longer is better if it substantially improves emotion and natural pacing.
+- Avoid silence so long that the viewer thinks the Reel froze, but let key images and sentences breathe. Don't use abrupt jump-cuts or hard stop immediately after the final words. Soft music tail is welcome.
+- Avoid adding new script claims or buying photos. Use existing free illustrated aesthetic with better staging and motion; no paid credits or APIs.
+- Render a revised v5 **only with zero-cost tooling**, and request fresh QA and owner approval. Do not mark FINISHED yet.
