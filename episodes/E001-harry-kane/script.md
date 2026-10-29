@@ -1,15 +1,13 @@
 # E001 — Harry Kane | Instagram Reel
 
-**Status:** Creative draft; narration and rendering NOT approved.
+**Status:** v5 script as produced (zero-spend). Owner-directed ending revision of 29 Oct 2026. Awaiting QA and owner sign-off.
 
-**Target:** ~68–75s; energetic natural second-person narration; identity revealed only near the ending.
+**Length:** 181 words (written; "2026" is spoken "twenty twenty-six"). Recorded length 77.6 s including a 2.3 s music tail.
 
-## Current working script (158-word version per Claude, to be timed with final narration)
+## Script (v5)
 
 Imagine football is your first love.
-
 You give it your childhood. Your weekends. Every dream.
-
 But football… doesn't seem to love you back.
 
 You watch David Beckham become a legend.
@@ -30,26 +28,30 @@ Record after record. Final after final… but the trophies slip away.
 So you leave the club you love.
 In Germany, your first season ends empty-handed.
 But you give more. You create. You fight for every ball.
+
 Finally, the trophies arrive.
-
-While others debate who's the best…
+But you still don't stop.
+You keep scoring.
+You keep creating.
 You let your football speak.
+And slowly… the football world starts to notice.
 
-And in 2026, the boy who idolised Beckham wins the Ballon d'Or.
-His name is Harry Kane.
-And football finally loved him back.
+Then, in 2026…
+after everything you gave to the game,
+football rewards you with its biggest individual prize.
+The Ballon d'Or.
 
-## Direction
-- Warm, personal opening, not slow and sleepy.
-- Natural connected speech; avoid stitching many separately generated lines with audible breaks.
-- Fast momentum through the middle; slower, softer final line.
-- Tottenham evolution: uncertainty → confident passing/scoring → teammate leader.
-- Bayern: perseverance after first season without trophies.
-- End with a licensed recognizable Kane photo if available, followed by childhood callback.
-- Dramatizations should be labelled. Verify factual details with primary sources before publication.
+Do you know who this player is?
+Tell me in the comments.
 
-## Pending
-- Compare narrator speed samples.
-- Approve final continuous voice take and its cost.
-- Confirm licensing for real Kane image.
-- Assemble and review final Reel.
+## Changes from v4
+- Removed: "While others debate who's the best…", "And in 2026, the boy who idolised Beckham wins the Ballon d'Or.", "His name is Harry Kane.", "And football finally loved him back."
+- Added: the owner's bridge and ending (from "But you still don't stop" to "Tell me in the comments").
+- The player is **not named** anywhere on screen or in narration (comment-hook version).
+
+## Note for QA
+ChatGPT's v4 QA asked to preserve "And football finally loved him back." The owner's later instruction (29 Oct, 01:44) replaced the ending with the comment hook. v5 follows the owner's later instruction and keeps the first-love theme visually: the hook plays over the childhood callback (the boy at sunset). If the owner wants the line back, it fits before the hook at about +2.5 s.
+
+## Facts used in the ending
+- 2026 men's Ballon d'Or awarded to Harry Kane on 26 October 2026 at the London Palladium (UEFA; England Football; see `licensing.md`). On screen: "26 · 10 · 2026 · LONDON PALLADIUM" and "BALLON D'OR" only.
+- "Finally, the trophies arrive": first major trophy 2024/25 Bundesliga; 2025/26 Bundesliga and DFB-Pokal. No new specific claims were added in the montage.

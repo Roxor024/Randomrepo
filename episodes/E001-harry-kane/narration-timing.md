@@ -1,11 +1,11 @@
-# E001 narration timing (free voice, v4)
+# E001 narration timing (free voice, v5)
 
-- **Voice:** Kokoro-82M, voice `bm_george` (British male), run offline with onnxruntime. British pronunciation from the misaki `gb_gold` / `gb_silver` dictionaries; names (Beckham, Tottenham, Arsenal, Ballon d'Or, Kane) set by hand.
-- **Script:** the approved 158-word version in `script.md`, unchanged.
-- **Recording method:** 12 paragraphs, each one continuous generation (not stitched sentence by sentence). Paragraphs joined with planned musical pauses.
-- **Pace:** 1.06–1.12× through the story (fastest through Tottenham and Bayern), 0.98× on the name, 0.90× and softer on the final line.
-- **Longest pause:** 1.45 s, immediately before "His name is Harry Kane."
-- **Total:** 69.07 s.
+- **Voice:** Kokoro-82M `bm_george` (Apache-2.0), offline via onnxruntime; British pronunciation from misaki dictionaries (Apache-2.0).
+- **Script:** v5 in `script.md` (181 words).
+- **Method:** 14 paragraphs, each one continuous generation; paragraphs joined with planned pauses.
+- **Pace:** 1.06–1.12× through the story and montage; 1.0–1.05× on the gold build-up; 0.92× on "The Ballon d'Or"; 0.98× and softer on the comment hook.
+- **Breaths:** 0.75 s music drop before "Then, in 2026"; 1.7 s after "The Ballon d'Or"; 2.3 s music tail after the last word.
+- **Total:** 77.60 s.
 
 ## Caption cues (seconds)
 
@@ -20,18 +20,23 @@
 | 15.80 | 17.16 | But Arsenal lets you go. |
 | 17.22 | 18.78 | Tottenham rejects you too. |
 | 18.84 | 21.39 | Then you face them… / and score three goals. |
-| 22.64 | 24.38 | Loans. Injuries. / The bench. |
-| 24.43 | 25.85 | But you keep fighting. |
-| 26.05 | 27.90 | Slowly, your confidence grows. |
-| 27.96 | 29.44 | You score. You create. |
-| 29.50 | 32.38 | You become the player / an entire club depends on. |
-| 34.13 | 35.59 | Record after record. |
-| 35.65 | 38.87 | Final after final… / but the trophies slip away. |
-| 39.81 | 41.83 | So you leave the club you love. |
-| 42.38 | 45.12 | In Germany, your first season / ends empty-handed. |
-| 45.18 | 48.44 | But you give more. You create. / You fight for every ball. |
-| 48.50 | 50.59 | Finally, the trophies arrive. |
-| 51.04 | 54.98 | While others debate who's the best… / You let your football speak. |
-| 55.73 | 60.77 | And in 2026, the boy who idolised / Beckham wins the Ballon d'Or. |
-| 61.97 | 64.13 | His name is Harry Kane. |
-| 64.73 | 67.67 | And football finally / loved him back. |
+| 22.50 | 24.23 | Loans. Injuries. / The bench. |
+| 24.29 | 25.70 | But you keep fighting. |
+| 25.90 | 27.75 | Slowly, your confidence grows. |
+| 27.81 | 29.29 | You score. You create. |
+| 29.35 | 32.23 | You become the player / an entire club depends on. |
+| 33.98 | 35.44 | Record after record. |
+| 35.50 | 38.72 | Final after final… / but the trophies slip away. |
+| 39.66 | 41.68 | So you leave the club you love. |
+| 42.23 | 45.04 | In Germany, your first season / ends empty-handed. |
+| 45.10 | 48.61 | But you give more. You create. / You fight for every ball. |
+| 48.81 | 50.94 | Finally, the trophies arrive. |
+| 51.24 | 52.38 | But you still don't stop. |
+| 52.44 | 54.72 | You keep scoring. / You keep creating. |
+| 54.78 | 56.57 | You let your football speak. |
+| 56.82 | 60.18 | And slowly… the football world / starts to notice. |
+| 60.78 | 62.51 | Then, in 2026… |
+| 62.57 | 64.76 | after everything you gave / to the game, |
+| 64.82 | 68.76 | football rewards you with its / biggest individual prize. |
+| 69.31 | 72.04 | The Ballon d'Or. |
+| 72.29 | 77.10 | Do you know who this player is? / Tell me in the comments. |
